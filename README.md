@@ -20,12 +20,12 @@ by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-s
 and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use
 the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each
 day.
-● Lily Moreno: The director of marketing and your manager. Moreno is responsible for the development of campaigns and
+* Lily Moreno: The director of marketing and your manager. Moreno is responsible for the development of campaigns and
 initiatives to promote the bike-share program. These may include email, social media, and other channels.
-● Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting
+* Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting
 data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy learning about
 Cyclistic’s mission and business goals — as well as how you, as a junior data analyst, can help Cyclistic achieve them.
-● Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
+* Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
 
 ## About the company
@@ -72,7 +72,29 @@ There were 12 files for each month.There were 13 variables.After making sure all
 
 ## Process Phase
 
-Data combining has been done here [data combining](Data Collection and Combining.sql)
+Data combining has been done here [data combining]([Data Collection and Combining.sql](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Collection%20and%20Combining.sql)https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Collection%20and%20Combining.sql)
+
+Data has been collected from 12 files and after changing it to same data  types they have been combined together as year_tripdata.
+
+[Data Exploration](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Exploration.sql) has been done.
+There are around 5,66,7717 rows.We were able to find Null values,duplicate rows,to identify which rows can be filled by us by reference from the same file etc.
+
+[Data Cleaning](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Cleaning%20.sql) has been done.The steps that were taken included removing duplicates, removing unknown null values, filling some null values by taking reference to the already given data, splitting columns for better understanding, removing outliers, changing to correct data types, removing inconsistent values, checking consistency in identifiers as well.
+
+
+## Analyze Phase
+
+[Data Analyze](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Analysis.sql) is done here.
+
+Total number of rows after cleaning is 
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/d6f8bd76-6997-4844-b9e5-0ea508f09592)
+
+
+
+
+
+
 
 
 
