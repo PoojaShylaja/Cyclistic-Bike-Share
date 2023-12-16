@@ -56,9 +56,6 @@ b). How does annual members and casual riders use Cyclistic Bikeshare differentl
 
 Key stake holders are : The director of marketing, Lily Moreno, Cyclistic marketing analytics team,Cyclistic executive team 
 
-Data Sources are from [the Cyclistic trip data]( https://divvy-tripdata.s3.amazonaws.com/index.html)
-
-I have collected data from January 2022 to December 2022.
 
 ## Prepare Phase
 
@@ -72,7 +69,7 @@ There were 12 files for each month.There were 13 variables.After making sure all
 
 ## Process Phase
 
-Data combining has been done here [data combining]([Data Collection and Combining.sql](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Collection%20and%20Combining.sql)https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Collection%20and%20Combining.sql)
+Data combining has been done here [data combining](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/blob/main/Data%20Collection%20and%20Combining.sql)
 
 Data has been collected from 12 files and after changing it to same data  types they have been combined together as year_tripdata.
 
@@ -89,6 +86,36 @@ There are around 5,66,7717 rows.We were able to find Null values,duplicate rows,
 Total number of rows after cleaning is 
 
 ![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/d6f8bd76-6997-4844-b9e5-0ea508f09592)
+
+The Avg Ride Length is 
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/fedd582e-5360-4cfe-b19f-0bdd591dcfee)
+
+The total number of casual and member rides are
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/723328f4-4d66-47d3-b098-cb5531a0d86a)
+
+The Avg ride Length of members and casual riders are
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/8e0d35a2-eead-49fa-8ec7-e8282b32f37f)
+
+Different types of rides and count
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/54ef9bcb-cf06-4895-aed8-320b2a63b58e)
+
+Different types of rides and avg ride length
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/971b3fea-1d29-4b74-838e-76d702ba3a60)
+
+Total number of rides in each month
+
+[image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/54ba5d4f-ec73-4714-8ca0-efdf56dbacba)
+
+Stations from more rides
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/ec174b8a-e2ae-4c22-b982-4b372f2ef555)
+
+
 
 
 
