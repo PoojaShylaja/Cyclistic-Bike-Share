@@ -109,7 +109,8 @@ Different types of rides and avg ride length
 
 Total number of rides in each month
 
-[image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/54ba5d4f-ec73-4714-8ca0-efdf56dbacba)
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/dc77c7a0-7bbb-4e43-bb63-5989000e4b08)
+
 
 Stations from more rides
 
