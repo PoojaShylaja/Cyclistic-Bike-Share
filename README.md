@@ -51,8 +51,8 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 
 What is the problem you are trying to solve?
 
-a). How to Maximize the annual membership Cyclistic Bikeshare.
-b). How does annual members and casual riders use Cyclistic Bikeshare differently.
+* How to Maximize the annual membership Cyclistic Bikeshare.
+* How does annual members and casual riders use Cyclistic Bikeshare differently.
 
 Key stake holders are : The director of marketing, Lily Moreno, Cyclistic marketing analytics team,Cyclistic executive team 
 
@@ -118,6 +118,53 @@ Stations from more rides
 
 
 ## Share
+
+[Data Sharing](https://public.tableau.com/app/profile/pooja.shylaja/viz/CyclisticBike-Share2022_17026459519760/Story1?publish=yes) is done in Tableau.
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/2397e730-dd34-4208-a619-007671fa6703)
+
+* There are two types of riders casual riders and members. Members take more rides than casual members.
+* The rideable type of bikes are Classic,Electrical and Docked.
+* Classical Bikes are mostly used by riders followed by electric and last Docked
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/43e54bc6-f849-4671-8cdb-43041c09b87b)
+
+* More rides are in spring and summer time i.e., from April to September.
+* Less rides in winter that is from November to March.
+* Both casual and member riders have similar pattern in the rise and fall of rides over the year.
+* In case of week days members have more rides in the middle of the week and casual riders its weekend.
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/7d1187c0-85a4-4e49-b8a4-2c5777baa30c)
+
+* Casual members trend to have loner rides than members.Even though more rides are taken by members.
+* Average ride length trends to stay near to same for members and for casual riders there is variation.
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/52b65a21-b737-4081-922e-1a33155b640c)
+
+* Stations with most number of rides. Top 5 stations with maximum count for casual rides.
+
+![image](https://github.com/PoojaShylaja/Cyclistic-Bike-Share/assets/101803358/5b513132-c9f2-4f32-910d-ab44087a7d2a)
+
+* When we see for each day more number of rides are towards the evening and in the morning.
+* The average ride length for the day for members remains same through out the day.
+
+## Act
+
+
+
+* Casual riders take more rides on the weekend and members on the week days.
+* Both of them have high number of rides during spring and summer and less on winter.
+* Casual riders go for longer trips and members mostly shorter ones.
+* Marketing campaigns can be done for casual members on spring and summer time.
+* Special offers for weekends and discounts or offers for longer trips as well to catch more casual riders.
+  
+
+
+
+
+
+
+
 
 
 
