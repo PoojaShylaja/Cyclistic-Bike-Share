@@ -150,13 +150,19 @@ Stations from more rides
 
 ## Act
 
-
+### Key Findings: 
 
 * Casual riders take more rides on the weekend and members on the week days.
 * Both of them have high number of rides during spring and summer and less on winter.
 * Casual riders go for longer trips and members mostly shorter ones.
-* Marketing campaigns can be done for casual members on spring and summer time.
-* Special offers for weekends and discounts or offers for longer trips as well to catch more casual riders.
+* Average ride length for members remains aproximately same.
+* classic bikes are more used, then electric and then dockedbikes.
+
+### Recommendations
+  
+* Marketing campaigns for annual plans with discounts for  casual members for spring and summer time should be done one month before it starts.
+* Special offers for weekends for casual members can be introduced. One to two rides can be given free,can introduce punching cards etc.
+* We can even target stations with most casual riders and give discounts as well.
   
 
 
